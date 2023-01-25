@@ -1,0 +1,32 @@
+/*62419*/
+.admin-call-scenario .title {
+    font-size: 14px;
+    font-weight: 700;
+}
+.admin-call-scenario .selected-title {
+    font-size: 17px !important;
+    font-weight: 600 !important;
+    padding-left: 0 !important;
+}
+.admin-call-scenario ul .bushrs-data {
+    border-bottom: 1px solid #333;
+    padding: 8px 15px;
+    max-width: 220px;
+}
+.admin-call-scenario .ring-type {
+    font-weight: 600;
+}
+.admin-call-scenario .config-items {
+    padding: 8px 15px;
+    border-bottom: 1px solid #333;
+    margin-bottom: 5px;
+}
+.admin-call-scenario .config-type {
+    font-weight: 700;
+}
+.admin-call-scenario ul.bushrs {
+    padding-left: 15px;
+}
+.admin-call-scenario .user-to-ring .ring-type, .admin-call-scenario .user-to-ring .user-items, .admin-call-scenario .ring-count {
+    padding-left: 15px;
+}
